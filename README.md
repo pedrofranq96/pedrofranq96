@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working as a .Net developer
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: pedrofranq96@gmail.com
+- 🌱 I’m currently learning Azure DevOps
+- 📫 How to reach me: pedrofranq96@gmail.com / https://www.linkedin.com/in/pedro-luiz-gutierrez-4a06711b9
  
  ##
  
