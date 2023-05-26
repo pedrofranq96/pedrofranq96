@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a .Net developer
-- 🌱 I’m currently learning Android/Kotlin
+- 🌱 I’m currently learning React/React Native
 - 📫 How to reach me: pedrofranq96@gmail.com / https://www.linkedin.com/in/pedro-luiz-gutierrez-4a06711b9
  
  ##
