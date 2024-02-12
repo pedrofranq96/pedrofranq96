@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a .Net developer
-- 🌱 I’m currently learning Angular.js/Typescript
+- 🌱 I’m currently learning React Native/Typescript
 - 📫 How to reach me: pedrofranq96@gmail.com / https://www.linkedin.com/in/pedro-luiz-gutierrez-4a06711b9
  
  ##
